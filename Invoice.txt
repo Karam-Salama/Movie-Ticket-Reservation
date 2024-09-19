@@ -1,0 +1,9 @@
+Invoice: 
+-----------------------------
+Dear: no
+Movie Title: Interstellar
+Showtime: 18:00
+Selected Seats: C6
+Total Price: 100
+-----------------------------
+Thank you for your booking!
